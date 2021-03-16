@@ -1,0 +1,3 @@
+C:/Users/Henrique R D/Desktop/Trisngulo#01/out/build/x64-Debug/CMakeFiles/Triangulo.dir
+C:/Users/Henrique R D/Desktop/Trisngulo#01/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Henrique R D/Desktop/Trisngulo#01/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
